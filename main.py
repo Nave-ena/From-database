@@ -1,7 +1,7 @@
 import requests
 import json
 
-url = "https://x8ki-letl-twmt.n7.xano.io/api:GSAwrAoy:v1/links/get/today"
+url = "Xano End URL"
 
 response = requests.get(url)
 
